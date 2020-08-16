@@ -11,3 +11,7 @@
 > https://www.jb51.net/softs/672190.html
 
 * 依旧是拖动`jetbrains-agent.jar`包到IDEA便可
+
+##　Setting
+
+https://gitee.com/leehl/mavenSetting
